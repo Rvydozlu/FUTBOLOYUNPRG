@@ -1,5 +1,5 @@
 # FUTBOLOYUNPRG
-İki kişilik oyun programlama
+İki kişilik oyun
 
 Oynanabilir Bağlantı :https://rvydozlu.itch.io/futbol
  
