@@ -1,5 +1,7 @@
 # FUTBOLOYUNPRG
 İki kişilik oyun programlama
+
+Oynanabilir Bağlantı : https://rvydozlu.itch.io/futbol 
  
  ![image](https://user-images.githubusercontent.com/54940125/215627234-4e7f53aa-f580-480e-9024-34cc0733b128.png)
 Bu resimde görüldüğü gibi oyun bir adet ana menü içermekte ve başlat tuşu ile oyuna giriş yapılmaktadır. Ayrıca sağ alt köşede yer alan slider ile de arka plan müziği
