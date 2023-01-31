@@ -19,7 +19,7 @@ https://www.udemy.com/course/unity2d-oyun-gelistirme-egitimi/learn/lecture/17167
 
 Menüden geçiş yapılan oyun ekranı da fotoğrafta gösterildiği gibi olup yerine getirilmesi beklenen şartlarla oyun kullanıcıya sunulmuştur. 
 
-![Ekran görüntüsü_20230131_032301](https://user-images.githubusercontent.com/54940125/215628353-1ddb52f1-a25e-4326-b012-73a2bfc79742.png)
+![image](https://user-images.githubusercontent.com/54940125/215823796-a75ee500-e241-42f8-8e19-7c25c58ecd2d.png)
 
 
 
